@@ -1,7 +1,7 @@
 %FSIZE: get size of file in KB, MB, or GB. 
 %
 %%% 1. 'filename' = name of file or directory to get size of
-%%% 2. [optional] units = 'kb', 'mb' (default), or 'gb'
+%%% 2. [optional] units = 'kb', 'mb' (default), or 'gb' 
 %
 % Output is filesize in specified units. If directory, get size of
 % contents, including all levels of subdirectories.
